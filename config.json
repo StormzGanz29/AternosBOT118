@@ -1,0 +1,9 @@
+{
+	"ip":"hellmafia.aternos.me",
+	"port": "51615",
+	"name": "turucuy",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register pass123 ",
+	"login-cmd":"/login pass123 "
+}
